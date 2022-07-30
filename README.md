@@ -6,6 +6,9 @@ Senha: 123456
 
 O projeto é uma plataforma de gerenciamento de viagens espaciais composto por 2 partes, uma parte pública e uma parte privada.
 
+### Link Surge
+- https://temporary-alley.surge.sh
+
 ### Parte Pública:
 - Página Home contendo opções para parte pública e privada.
 - Página de Login para usuários cadastrados no banco de dados.
